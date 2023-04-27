@@ -18,6 +18,9 @@ The bulb in the circuit represents a water-valve which automatically gets closed
 
 
 https://user-images.githubusercontent.com/77005472/235002014-bee4871b-d195-4fc3-a0a3-bd2883e29037.webm
+https://user-images.githubusercontent.com/77005472/235004268-cf23d065-a600-4b71-ac53-ed8fff8772fc.mov
+
+
 
 ## Pesticide
 In this module the soil NPK sensor is not attached to every plant, rather they are inserted at the beginning and end of the garden and sometimes in the middle depending upon the length of the garden.
@@ -25,3 +28,13 @@ Soil fertility level is measured by calculating the average from the soil NPK se
 
 
 https://user-images.githubusercontent.com/77005472/235002643-5a0a42b8-6724-4391-9176-6c1bd616e594.webm
+https://user-images.githubusercontent.com/77005472/235004283-982bfb24-e703-4be6-9e32-121cce7402fa.mov
+
+
+
+## Greenhouse
+The greenhouse is used for growing delecate plants whicha re sensitive to extreme sunlight or wind. The greenhouse is a protected environment in whihc humidity, temperature, soil moisture, light density and soil fertility are measured for growing delecate plants. It is a closed environment to protect plants from extreme heat, wind, snow and rain.
+
+
+https://user-images.githubusercontent.com/77005472/235004085-f8a4b955-6447-43f0-bac4-d9aacf542936.webm
+
